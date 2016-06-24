@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/pre-dexed/debug/classes-5a449b57e46569e752ca833a8befff2edcd7cddf.jar" />
+    </item>
+    <item
+        jar="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/pre-dexed/debug/classes-33800e1b4a1099648a37e49943a4ffc26b193f85.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-beta1/support-annotations-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-beta1-20114fcc648d272de7c69a28424b998297d0cfb6.jar" />
+    </item>
+    <item
+        jar="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6fd4eef51a55508bdf3f43f8ad96992e1da3850b">
+        <dex dex="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/pre-dexed/debug/classes-f5457e09ceee26c5ad07dbfbbf2324777d5e2315.jar" />
+    </item>
+    <item
+        jar="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/pre-dexed/debug/classes-fa4e2d3812151d49bf94ac2e690c3da72d008025.jar" />
+    </item>
+    <item
+        jar="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/pre-dexed/debug/classes-1d23e35c2bbf0bcb6b1971e808cc8e13b366d8d0.jar" />
+    </item>
+    <item
+        jar="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/libs/internal_impl-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-beta1-3969bfa92d002e0af18351fe487ee9f5e2d07cfc.jar" />
+    </item>
+    <item
+        jar="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="471ce760dbf7b784fd74892b5113bca4e0d8def7">
+        <dex dex="/home/djh/AndroidStudioProjects/KeyguardLockDemo/app/build/intermediates/pre-dexed/debug/classes-535d543e6f87418d9ed1ca2b93974413fe2ebcd6.jar" />
+    </item>
+
+</items>
